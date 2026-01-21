@@ -28,7 +28,7 @@ This project demonstrates my understanding of:
 
 ### Screenshot
 
-![QR Code Component Screenshot](./images/solution-screenshot.png.jpg)
+![QR Code Component Screenshot](./images/solution-screenshot.png)
 
 ### Links
 
@@ -83,6 +83,6 @@ In future projects, I plan to focus on:
 
 ## Author
 
-- Website - [Hemadri Khandelwal](https://www.your-site.com)
-- Frontend Mentor - [@hemadrikhandelwal](https://www.frontendmentor.io/profile/yourusername)
+- Name - [Hemadri Khandelwal]
+- Frontend Mentor - [@hemadrikhandelwal](https://www.frontendmentor.io/profile/hemadrikhandelwal)
 
