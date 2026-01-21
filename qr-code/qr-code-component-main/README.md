@@ -83,6 +83,6 @@ In future projects, I plan to focus on:
 
 ## Author
 
-- Name - [Hemadri Khandelwal]
+- Name - Hemadri Khandelwal
 - Frontend Mentor - [@hemadrikhandelwal](https://www.frontendmentor.io/profile/hemadrikhandelwal)
 
