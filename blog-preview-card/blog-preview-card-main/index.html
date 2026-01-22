@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/images/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | Blog preview card</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  </head>
+  <body>
+    <main
+      class="flex flex-col justify-center items-center min-h-screen font-medium"
+    >
+      <section
+        class="blog-card rounded-3xl border border-black border-solid p-4 gap-4 flex flex-col shadow-[8px_8px_0_rgba(0,0,0,1)]"
+      >
+      <div class="rounded-xl  overflow-hidden">
+         <img
+          src="assets/images/illustration-article.svg"
+          alt="Illustration for HTML and CSS article"
+          class="w-full h-auto block"
+        />
+
+      </div>
+       
+        <div class="flex gap-4 flex-col blog-text-color">
+          <div
+            class="rounded-md bg-yellow font-bold w-1/4 py-0.5 px-2.5 border border-transparent text-sm text-slate-800 transition-all shadow-sm"
+          >
+            Learning
+          </div>
+          <span class="text-sm">Published 21 Dec 2023</span>
+          <h1 class="font-extrabold text-2xl">HTML & CSS foundations</h1>
+          <p class="text-gray font-medium text-base">
+            These languages are the backbone of every website, defining
+            structure, content, and presentation.
+          </p>
+        </div>
+
+        <div class="flex gap-2">
+          <img
+            src="assets/images/image-avatar.webp"
+            alt="Author Image"
+            class="blog-avtar"
+          />
+          <p class="font-bold text-sm text-center p-2">Greg Hooper</p>
+        </div>
+      </section>
+      <div class="attribution">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+          >Frontend Mentor</a
+        >. Coded by <a href="#">Hemadri</a>.
+      </div>
+    </main>
+  </body>
+</html>
