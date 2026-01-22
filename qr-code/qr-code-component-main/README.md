@@ -28,12 +28,12 @@ This project demonstrates my understanding of:
 
 ### Screenshot
 
-![QR Code Component Screenshot](./images/solution-screenshot.png.jpg)
+![QR Code Component Screenshot](./images/solution-screenshot.png)
 
 ### Links
 
-- Solution Repository: [https://github.com/hemadrikhandelwal/frontend_mentor_solutions/tree/qr-code/qr-code/qr-code-component-main](https://your-solution-url.com)
-- Live Site URL: [https://qr-code-rosy-six.vercel.app/](https://your-live-site-url.com)
+- Solution Repository: [https://github.com/hemadrikhandelwal/frontend_mentor_solutions/tree/qr-code/qr-code/qr-code-component-main](https://github.com/hemadrikhandelwal/frontend_mentor_solutions/tree/qr-code/qr-code/qr-code-component-main)
+- Live Site URL: [https://qr-code-rosy-six.vercel.app/](https://qr-code-rosy-six.vercel.app/)
 
 ## My process
  
@@ -76,13 +76,13 @@ In future projects, I plan to focus on:
 
 ### Useful resources
 
-- [https://tailwindcss.com/](https://www.example.com) -  Helped me understand utility-first styling and layout patterns.
-- [https://www.w3schools.com/](https://www.example.com) - Useful for revisiting core HTML and CSS concepts.
+- [https://tailwindcss.com/](https://tailwindcss.com/) -  Helped me understand utility-first styling and layout patterns.
+- [https://www.w3schools.com/](https://www.w3schools.com/) - Useful for revisiting core HTML and CSS concepts.
 
 
 
 ## Author
 
-- Website - [Hemadri Khandelwal](https://www.your-site.com)
-- Frontend Mentor - [@hemadrikhandelwal](https://www.frontendmentor.io/profile/yourusername)
+- Name - Hemadri Khandelwal
+- Frontend Mentor - [@hemadrikhandelwal](https://www.frontendmentor.io/profile/hemadrikhandelwal)
 
