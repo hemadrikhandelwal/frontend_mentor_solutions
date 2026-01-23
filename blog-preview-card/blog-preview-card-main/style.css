@@ -1,0 +1,47 @@
+:root{
+    --color-yellow:hsl(47, 88%, 63%);
+    --color-white: hsl(0, 0%, 100%);
+    --color-gray-500: hsl(0, 0%, 42%);
+    --color-gray-950:hsl(0, 0%, 7%);
+    --default-font-family:"Figtree";
+}
+
+body{
+    font-family: var(--default-font-family);
+    background-color: var(--color-yellow);
+}
+
+.blog-card{
+    max-width:382px;
+    width:100%;
+    background-color: var(--color-white);
+}
+
+
+.blog-text-color{
+    color:var(--color-gray-950);
+}
+
+.text-gray{
+    color: var(--color-gray-500);
+}
+
+.bg-yellow{
+    background-color:var(--color-yellow);
+}
+
+.blog-avtar{
+    width:32px;
+    height: 32px;
+    display: block;
+}
+
+h1:hover,h1:focus,h1:active,h1.error{
+    color:var(--color-yellow);
+    cursor: pointer;
+}
+
+
+.attribution { font-size: 11px; text-align: center; margin-top: 1rem;}
+.attribution a { color: hsl(228, 45%, 44%); }
+
