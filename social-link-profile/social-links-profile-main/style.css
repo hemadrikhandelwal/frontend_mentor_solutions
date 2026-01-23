@@ -1,0 +1,74 @@
+:root{
+
+    --color-green: hsl(75, 94%, 57%);
+    --color-white: hsl(0, 0%, 100%);
+    --color-grey-700: hsl(0, 0%, 20%);
+    --color-grey-800:hsl(0,0%,12%);
+    --color-grey-900:hsl(0,0%,8%);
+    --font-primary: "Inter", sans-serif;
+    
+
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("./assets/fonts/static/Inter-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("./assets/fonts/static/Inter-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("./assets/fonts/static/Inter-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+body{
+    background-color: var(--color-grey-900);
+    color:var(--color-white);
+    font-family: var(--font-primary);
+    font-size:14px;
+
+}
+
+img{
+    display: block;
+    width:100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.address-color{
+    color: var(--color-green);
+    text-align: center;
+    font-weight:600;
+    font-style: normal;
+}
+
+.profile-card{
+    max-width:350px;
+    width: 100%;
+    background-color: var(--color-grey-800);
+}
+
+
+button{
+    background-color: var(--color-grey-700);
+}
+
+button:hover{
+    color: var(--color-green);
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
