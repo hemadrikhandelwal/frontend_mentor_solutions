@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/hemadrikhandelwal/frontend_mentor_solutions/tree/social-link-preview/social-link-profile/social-links-profile-main](https://github.com/hemadrikhandelwal/frontend_mentor_solutions/tree/social-link-preview/social-link-profile/social-links-profile-main)
 - Live Site URL: [https://social-links-profile-steel-phi.vercel.app/](https://social-links-profile-steel-phi.vercel.app/)
 
 ## My process
