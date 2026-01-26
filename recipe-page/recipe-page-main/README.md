@@ -28,21 +28,23 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-My pr cess was to use twilind css using tailind cli and also to use flex boz approach to make the code align as per design 
+My approach was to build this project using **Tailwind CSS via the Tailwind CLI** and apply a **Flexbox-based layout** to closely match the provided design.  
+I focused on clean structure, reusable styles, and readable UI spacing.
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Tailwind CSS
-
-
-
+- Semantic HTML5 markup  
+- CSS custom properties  
+- Flexbox  
+- Tailwind CSS (CLI setup)
 
 ### What I learned
 
-use of firt child to show style certain table compoent , how to provide custom color to the bullet using marker , how to use tailwing cli for installation and stylesheets also using @layer to override tailsind class 
+- How to style specific table rows using `:last-child`
+- How to apply **custom colors to list bullets and numbers** using `::marker`
+- Installing and configuring **Tailwind CSS via CLI**
+- Using `@layer` to override and extend Tailwind utility classes
+- Creating clean table designs with only bottom borders
 
 
 
@@ -59,16 +61,15 @@ use of firt child to show style certain table compoent , how to provide custom c
 }
 ```
 
-
-
-
-
-
 ### Continued development
 
-I will still focus of use of different div section , how to make page responsive and how can the use of diifert style approach like maret last child to match to teh deign lavel.
+- Improve responsiveness across different screen sizes
 
+- Experiment with alternative layout approaches
 
+- Refine spacing and alignment to better match design specifications
+
+- Explore more advanced Tailwind utilities and custom components
 
 ## Author
 
