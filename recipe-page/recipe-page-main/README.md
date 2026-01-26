@@ -25,7 +25,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [https://github.com/hemadrikhandelwal/frontend_mentor_solutions/tree/recipe-page/recipe-page/recipe-page-main](https://github.com/hemadrikhandelwal/frontend_mentor_solutions/tree/recipe-page/recipe-page/recipe-page-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://recipe-page-lyart-eight.vercel.app/](https://recipe-page-lyart-eight.vercel.app/)
 
 ## My process
 My approach was to build this project using **Tailwind CSS via the Tailwind CLI** and apply a **Flexbox-based layout** to closely match the provided design.  
