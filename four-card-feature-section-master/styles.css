@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+:root{
+    --color-grey500:hsl(234,12%,34);
+    --color-grey400:hsl(212,6%,44%);
+    --color-white:hsl(0,0%,100%);
+}
+
+@layer base {
+  body {
+    @apply font-primary text-body;
+    
+  }
+}
+
+h1, span, p{
+    color: var(--color-grey400);
+}
+
+h2{
+    color: var(--color-grey500);
+}
+
+.feature-card{
+    width:300px;
+    height: 200px;
+}
+
+/* .container{
+    width:85%;
+    max-width:75rem;
+} */
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
