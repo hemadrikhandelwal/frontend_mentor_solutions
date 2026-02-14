@@ -29,15 +29,10 @@
 
   section{
     padding:32px;
-    min-height:245px;
   }
 
 
-  img{
-    display: block;
-    width:32px;
-    height: 32px;
-  }
+
 
 
     @font-face {
@@ -64,6 +59,12 @@
 .testimonial-subheading{
     @apply font-barlow font-semibold text-xl         
 }
+
+  .avatar {
+    display: block;
+    width:32px;
+    height: 32px;
+  }
 
 
 
